@@ -1,0 +1,2 @@
+# ntp
+Ninguém tá puro
